@@ -19,7 +19,7 @@ Single page application developed with HTML, CSS and vanilla JavaScript. It's a 
 
 ### Screenshot
 
-[Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
 
 ### Links
 
