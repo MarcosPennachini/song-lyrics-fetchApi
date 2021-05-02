@@ -15,20 +15,21 @@
 
 ### Description
 
-Single page application developed with HTML, CSS and vanilla JavaScript. It's a simple finder of song lyrics with api.lyrics.ovh
+Single page application developed with HTML, CSS and vanilla JavaScript. It's a simple finder of song lyrics with api.lyrics.ovh.
 
-### Screenshot
+This is an excersise of an [Udemy course](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
+
+### Screenshot 📸
 
 ![Screenshot](./screenshot.png)
 
-### Links
+### Links 🔗
 
-- Solution URL: [solution](https://github.com/MarcosPennachini/song-lyrics-fetchApi)
 - Live Demo: [demo](https://song-lyrics-fetch-api.vercel.app/)
 
 ## My process
 
-### Built with
+### Built with 🧱
 
 HTML, CSS and vanilla Javascript. Using api.lyrics.ovh to get the lyrics
 
@@ -36,8 +37,6 @@ HTML, CSS and vanilla Javascript. Using api.lyrics.ovh to get the lyrics
 
 Practicing with classes and export functions in Javascript
 
-## Author
+## Author 🧔
 
 [Marcos Pennachini](https://linkedin.com/in/marcos-pennachini-b39898123)
-
-This is an excersise of an [Udemy course](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
